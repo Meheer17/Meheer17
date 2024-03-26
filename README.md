@@ -21,7 +21,7 @@ My passion to solve any problem that come my way, well versed in Javascript, Nod
 
 * **Web Development:** Proficient in building dynamic and user-friendly web applications. 
 * **API Development:** Possess the ability to integrate APIs into web applications to enhance functionality and data exchange.
-* **Others:** AWS Services, Version Control, API Development, Vercel, TailwindCss, MongoDB, DSA.
+* **Others:** AWS Services, Google Cloud Console, Version Control, API Development, Vercel, TailwindCss, MongoDB, DSA.
 
 **Let's Connect!**
 
@@ -38,6 +38,7 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
       <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/white" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole"/>
       <img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
