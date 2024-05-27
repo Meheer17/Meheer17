@@ -66,5 +66,5 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meheer17&hide_border=true" />
 </div>
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://www.buymeacoffee.com/meheer17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 	
