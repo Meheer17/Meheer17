@@ -55,7 +55,7 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
       <img height="32" width="32" src="https://cdn.simpleicons.org/serverless" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
 </p>
 
 ## Here's some humor for you:
@@ -65,6 +65,8 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meheer17&show_icons=true&hide_border=true&layout=compact&langs_count=10" />
 	<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Meheer17&hide_border=true" />
 </div>
+
+[![roadmap.sh](https://roadmap.sh/card/wide/648dd3d9779070ae6248303b?variant=dark&roadmaps=datastructures-and-algorithms%2Capi-design%2Cfull-stack%2Clinux)](https://roadmap.sh)
 
 <a href="https://www.buymeacoffee.com/meheer17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 	
