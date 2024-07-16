@@ -28,46 +28,40 @@ My passion to solve any problem that come my way, well versed in Javascript, Nod
 I'm always eager to learn and collaborate on new projects. Feel free to reach out and connect with me!
 
 <p align="center">
-      <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole"/>
-      <img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/amazons3" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/git" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/json/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/termius/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/vercel/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/serverless" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/python" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/c" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/cplusplus" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole"/>
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/amazons3" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/archlinux" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/typescript" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/nextdotjs/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/nodedotjs" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/docker" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/git" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/json/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/termius/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/vercel/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/serverless" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+      	<img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/googlegemini" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
- 
-	
- 
-	
+     	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />	
 </p>
 
 ## Here's some humor for you:
