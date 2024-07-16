@@ -36,7 +36,7 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
       <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss/white" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/amazonaws/white" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/amazonwebservices/white" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/amazonec2" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole"/>
       <img height="32" width="32" src="https://cdn.simpleicons.org/amazondynamodb" />
@@ -55,7 +55,19 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
       <img height="32" width="32" src="https://cdn.simpleicons.org/serverless" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/linux/white" />
       <img height="32" width="32" src="https://cdn.simpleicons.org/vim" />
-      <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
+      <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/googlegemini" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />
+ 
+	
+ 
+	
 </p>
 
 ## Here's some humor for you:
