@@ -9,7 +9,7 @@
 
 Hi there! I'm a full-stack web developer with a strong drive to create exceptional web experiences. My passion lies in software engineering, and I thrive on challenges that allow me to push my boundaries and learn new technologies. Driven by self-teaching and a passion for the subject, I am constantly pushing myself forward towards achieving success. I'm known for my enthusiasm, dedication, and reliability. 
 
-My passion to solve any problem that come my way, well versed in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc and constantly upgrading my self to the latest tech stuff and getting onto domains such as frontend backend and full stack  and devops from scratch I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity
+My passion to solve any problem that come my way, well versed in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc and constantly upgrading my self to the latest tech stuff and getting onto domains such as frontend backend and full stack  and devops from scratch I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos or animes for enjoyment.
 
 ## **Talking about Personal Stuff**
 - 🌱 I’m currently planning on learning AI and ML, Devops and CyberSecurity.
@@ -73,6 +73,9 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
 </div>
 
 [![roadmap.sh](https://roadmap.sh/card/wide/648dd3d9779070ae6248303b?variant=dark&roadmaps=datastructures-and-algorithms%2Capi-design%2Cfull-stack%2Clinux)](https://roadmap.sh)
+
+## Github Trophies 🏆
+![Trophies](https://github-profile-trophy.vercel.app/?username=Meheer17&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=5)
 
 <a href="https://www.buymeacoffee.com/meheer17" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 	
