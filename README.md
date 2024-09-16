@@ -9,7 +9,7 @@
 
 Hi there! I'm a full-stack web developer with a strong drive to create exceptional web experiences. My passion lies in software engineering, and I thrive on challenges that allow me to push my boundaries and learn new technologies. Driven by self-teaching and a passion for the subject, I am constantly pushing myself forward towards achieving success. I'm known for my enthusiasm, dedication, and reliability. 
 
-My passion to solve any problem that come my way, well versed in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc and constantly upgrading my self to the latest tech stuff and getting onto domains such as frontend backend and full stack  and devops from scratch I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos or animes for enjoyment.
+My passion to solve any problem that come my way, well versed in TypeScript, Nodejs, MongoDB, SQL, React, Nextjs, AWS, etc and constantly upgrading my self to the latest tech stuff and getting onto domains such as frontend backend and full stack  and devops from scratch I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos or animes for enjoyment.
 
 ## **Talking about Personal Stuff**
 - 🌱 I’m currently planning on learning AI and ML, Devops and CyberSecurity.
@@ -58,9 +58,8 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
       	<img height="32" width="32" src="https://cdn.simpleicons.org/react" />
       	<img height="32" width="32" src="https://cdn.simpleicons.org/gnubash" />
       	<img height="32" width="32" src="https://cdn.simpleicons.org/dotenv" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/googlesearchconsole" />
 	<img height="32" width="32" src="https://cdn.simpleicons.org/googlegemini" />
-	<img height="32" width="32" src="https://cdn.simpleicons.org/npm" />
+	<img height="32" width="32" src="https://cdn.simpleicons.org/prisma" />
      	<img height="32" width="32" src="https://cdn.simpleicons.org/obsidian" />	
 </p>
 
