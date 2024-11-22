@@ -76,6 +76,11 @@ I'm always eager to learn and collaborate on new projects. Feel free to reach ou
 
 [![roadmap.sh](https://roadmap.sh/card/wide/648dd3d9779070ae6248303b?variant=dark&roadmaps=datastructures-and-algorithms%2Capi-design%2Cfull-stack%2Clinux)](https://roadmap.sh)
 
+---
+
+[![](https://visitcount.itsvg.in/api?id=Meheer17&icon=2&color=0)](https://visitcount.itsvg.in)
+---
+
 ## Github Trophies 🏆
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Meheer17&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=5)
 
