@@ -383,7 +383,7 @@ I'm a self-taught full-stack developer passionate about building scalable web ap
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Meheer17&style=for-the-badge&color=red" alt="Visitor Count" />
-  <img src="https://profile-counter.glitch.me/Meheer17/count.svg" alt="Visitor Count" />
+<!--   <img src="https://profile-counter.glitch.me/Meheer17/count.svg" alt="Visitor Count" /> -->
 </div>
 
 <div align="center">
