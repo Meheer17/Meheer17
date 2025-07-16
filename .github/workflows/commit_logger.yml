@@ -1,0 +1,10 @@
+name: Commit Logger
+
+on: [push]
+
+jobs:
+  log_commit:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Log Commit Message
+      run: echo "A commit was pushed with message: ${{ github.event.head_commit.message }}"
