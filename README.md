@@ -1,391 +1,321 @@
-# Hey there 👋, I'm Meheer
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer;Cloud%20Architecture%20Enthusiast;Problem%20Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
-  
-  <p align="center">
-    <a href="https://linkedin.com/in/meheer-j"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://instagram.com/meheer_007/"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="mailto:meherr17.j@gmail.com"><img src="https://img.shields.io/badge/-Email-d14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://discord.com/users/_meheer_"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Meheer&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Engineer%20%7C%20Cloud%20Architect%20%7C%20AI%20Builder&descAlignY=75&descSize=18&descColor=a78bfa&stroke=7c3aed&strokeWidth=2" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" height="200" width="600" />
-</div>
-
-## 💫 About Me
-
-> **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-I'm a self-taught full-stack developer passionate about building scalable web applications and exploring cutting-edge technologies. With a strong foundation in TypeScript, Node.js, and modern frameworks, I create elegant solutions to complex problems. My journey in tech is driven by curiosity and the thrill of continuous learning.
-
-- 🚀 Currently working on building serverless applications with AWS
-- 🧠 Exploring AI/ML integration in web applications
-- 👯 Looking to collaborate on open-source projects
-- 💡 Always open to learning new technologies
-- 🎮 When not coding: anime enthusiast and tech video consumer
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Meheer17&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meheer17&theme=radical&hide_border=true" alt="GitHub Streak" width="49%" />
+  <a href="https://linkedin.com/in/meheer-j">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:meherr17.j@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/meheer_007/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/_meheer_">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://roadmap.sh">
+    <img src="https://img.shields.io/badge/roadmap.sh-000000?style=for-the-badge&logo=roadmapdotsh&logoColor=white" />
+  </a>
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&height=50&lines=Architecting+scalable+full-stack+systems+%F0%9F%8F%97%EF%B8%8F;Fusing+AI+%2B+Cloud+%2B+Finance+%F0%9F%A7%A0;Building+the+future%2C+one+commit+at+a+time+%F0%9F%9A%80;Open+to+wild+collaborations+%F0%9F%A4%9D" />
+</div>
+
+<br>
+
+---
+
+## About Me
+
+```typescript
+const meheer = {
+  role        : "Full-Stack Engineer & Cloud Architect",
+  location    : "Bangalore, Karnataka, India",
+  currentFocus: ["AI-powered platforms", "Serverless on AWS", "Fintech & Energy Tech"],
+  expertise   : ["Go", "TypeScript", "Node.js", "Next.js", "Python", "FastAPI"],
+  databases   : ["MongoDB", "PostgreSQL", "DynamoDB", "FAISS"],
+  cloud       : ["AWS", "Docker", "Kubernetes", "Vercel", "Serverless", "Azure", "GCP"],
+  learning    : ["Terraform", "Cloudflare Workers", "LLM Pipelines", "Algo Trading"],
+  hobbies     : ["Anime", "Tech Videos", "Open Source"],
+  funFact     : "I debug production with the same energy I watch anime — fully immersed.",
+};
+```
+
+<br>
+
+---
+
+## 🚀 What I'm Building
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>GridWise</h3>
+      <p>AI-powered smart energy sharing & trading platform for Karnataka neighborhoods. Built with Next.js 14, FastAPI, MongoDB Atlas, XGBoost & FAISS.</p>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+      <img src="https://img.shields.io/badge/XGBoost-FF6600?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>Cubelinq</h3>
+      <p>Financial intelligence platform targeting Indian boutique AMCs</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Fintech-00C49F?style=flat-square" />
+      <img src="https://img.shields.io/badge/Enterprise_AI-7C3AED?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>AlgoTrader</h3>
+      <p>Automated stock trading system on Zerodha KiteTicker + KiteConnect. Hybrid LSTM + rule-based architecture for BUY/SELL/HOLD signal generation with smart stop-loss design.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/LSTM-FF4B4B?style=flat-square" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" />
+      <img src="https://img.shields.io/badge/Zerodha-387ED1?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>☁️ Serverless Infra</h3>
+      <p>Building cloud-native serverless applications on AWS. Deep dives into Lambda, DynamoDB, API Gateway, and Azure Blob Storage integrations with FastAPI.</p>
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+---
 
 ## 🛠️ Technology Arsenal
 
 <details open>
-  <summary><b>🔥 Core Technologies</b></summary>
+  <summary><b>🔥 Core Languages & Frameworks</b></summary>
   <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-        <br>TypeScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/nodedotjs/5FA04E" alt="Node.js" width="65" height="65" />
-        <br>Node.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/nextdotjs/000000/white" alt="Next.js" width="65" height="65" />
-        <br>Next.js
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/go/00ADD8" alt="Go" width="65" height="65" />
-        <br>Go
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=go,ts,js,py,cpp,c&theme=dark" />
+    <br><br>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,fastapi,tailwind,html,css&theme=dark" />
+  </div>
 </details>
 
-<details open>
-  <summary><b>💾 Databases & Storage</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB" width="65" height="65" />
-        <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/postgresql/4169E1" alt="PostgreSQL" width="65" height="65" />
-        <br>PostgreSQL
-      </td>
-<!--       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/redis/DC382D" alt="Redis" width="65" height="65" />
-        <br>Redis
-      </td> -->
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" alt="DynamoDB" width="65" height="65" />
-        <br>DynamoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/amazons3/569A31" alt="S3" width="65" height="65" />
-        <br>Amazon S3
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/prisma/2D3748" alt="Prisma" width="65" height="65" />
-        <br>Prisma
-      </td>
-    </tr>
-  </table>
-</details>
+<br>
 
 <details open>
-  <summary><b>☁️ Cloud & DevOps</b></summary>
+  <summary><b>💾 Databases, Storage & ORMs</b></summary>
   <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/kubernetes/326CE5" alt="Kubernetes" width="65" height="65" />
-        <br>Kubernetes
-      </td>
-<!--       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="GitHub Actions" width="65" height="65" />
-        <br>GH Actions
-      </td> -->
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/vercel/000000" alt="Vercel" width="65" height="65" />
-        <br>Vercel
-      </td>
-<!--       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/terraform/7B42BC" alt="Terraform" width="65" height="65" />
-        <br>Terraform
-      </td> -->
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/serverless/FD5750" alt="Serverless" width="65" height="65" />
-        <br>Serverless
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,dynamodb,redis,prisma&theme=dark" />
+    <br>
+    <p>Also working with: <code>FAISS</code> · <code>Amazon S3</code> · <code>Azure Blob Storage</code> · <code>MongoDB Atlas</code></p>
+  </div>
 </details>
 
+<br>
+
 <details open>
-  <summary><b>🎨 Frontend & Design</b></summary>
+  <summary><b>☁️ Cloud, DevOps & Infrastructure</b></summary>
   <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="65" height="65" />
-        <br>HTML5
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="65" height="65" />
-        <br>CSS3
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="TailwindCSS" width="65" height="65" />
-        <br>Tailwind
-      </td>
-<!--       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/framermotion/0055FF" alt="Framer" width="65" height="65" />
-        <br>Framer
-      </td> -->
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,vercel,cloudflare,terraform,githubactions&theme=dark" />
+    <br>
+    <p><code>Serverless Framework</code> · <code>AWS Lambda</code> · <code>API Gateway</code> · <code>ECS</code> · <code>EC2</code></p>
+  </div>
 </details>
+
+<br>
+
+<details open>
+  <summary><b>🤖 AI & ML Stack</b></summary>
+  <br>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+    <br><br>
+    <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LSTM-FF4B4B?style=for-the-badge" />
+  </div>
+</details>
+
+<br>
 
 <details>
   <summary><b>📱 Mobile & Cross-Platform</b></summary>
   <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React Native" width="65" height="65" />
-        <br>React Native
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/expo/000020" alt="Expo" width="65" height="65" />
-        <br>Expo
-      </td>
-<!--       <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/electron/47848F" alt="Electron" width="65" height="65" />
-        <br>Electron
-      </td> -->
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=react,expo&theme=dark" />
+    <br>
+    <p><code>React Native</code> · <code>Expo</code></p>
+  </div>
 </details>
 
+<br>
+
 <details>
-  <summary><b>⚙️ Languages & OS</b></summary>
+  <summary><b>🧰 Tools, Editors & OS</b></summary>
   <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/cplusplus/00599C" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="65" height="65" />
-        <br>C
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="65" height="65" />
-        <br>Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="Fedora" width="65" height="65" />
-        <br>Fedora Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch" width="65" height="65" />
-        <br>Arch Linux
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="65" height="65" />
-        <br>Ubuntu
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="65" height="65" />
-        <br>Bash
-      </td>
-    </tr>
-  </table>
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vim,linux,ubuntu,arch&theme=dark" />
+    <br><br>
+    <img src="https://img.shields.io/badge/LazyVim-2E7DE9?style=for-the-badge&logo=neovim&logoColor=white" />
+    <img src="https://img.shields.io/badge/ZED-084CCF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" />
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+    <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+  </div>
 </details>
 
-<details>
-  <summary><b>🧰 Tools & Utilities</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="65" height="65" />
-        <br>Git
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/github/181717" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="Postman" width="65" height="65" />
-        <br>Postman
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/vim/019733" alt="Vim" width="65" height="65" />
-        <br>Vim
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/lazyvim/2E7DE9" alt="LazyVim" width="65" height="65" />
-        <br>LazyVim
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/npm/CB3837" alt="npm" width="65" height="65" />
-        <br>npm
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/prettier/F7B93E" alt="Prettier" width="65" height="65" />
-        <br>Prettier
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/eslint/4B32C3" alt="ESLint" width="65" height="65" />
-        <br>ESLint
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/notion/000000" alt="Notion" width="65" height="65" />
-        <br>Notion
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/obsidian/7C3AED" alt="Obsidian" width="65" height="65" />
-        <br>Obsidian
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/zedindustries/084CCF" alt="ZED" width="65" height="65" />
-        <br>ZED
-      </td>
-    </tr>
-  </table>
-</details>
-<!-- 
-<details>
-  <summary><b>🧠 AI & Cutting Edge</b></summary>
-  <br>
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="65" height="65" />
-        <br>TensorFlow
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="65" height="65" />
-        <br>PyTorch
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/langchain/3178C6" alt="LangChain" width="65" height="65" />
-        <br>LangChain
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/openai/412991" alt="OpenAI" width="65" height="65" />
-        <br>OpenAI API
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/googlegemini/8E75B2" alt="Gemini" width="65" height="65" />
-        <br>Gemini
-      </td>
-      <td align="center" width="96">
-        <img src="https://cdn.simpleicons.org/webassembly/654FF0" alt="WebAssembly" width="65" height="65" />
-        <br>WASM
-      </td>
-    </tr>
-  </table>
-</details> -->
+<br>
 
-## 📊 Weekly Coding Stats
+---
 
-<div align="center">	
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Meheer17&layout=compact&theme=radical&hide_border=true" alt="Wakatime Stats" />
-</div>
-
-## 📈 Contribution & Activity
+## 📊 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meheer17&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Meheer17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=Meheer's%20GitHub%20Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meheer17&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=A78BFA&fire=F97316&currStreakLabel=A78BFA" width="49%" />
 </div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meheer17&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=donut&custom_title=Languages%20I%20Live%20In" width="38%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Meheer17&layout=compact&theme=tokyonight&hide_border=true&custom_title=Weekly%20Coding%20Hours" width="58%" />
+</div>
+
+<br>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Meheer17&bg_color=1a1b2e&color=a78bfa&line=7c3aed&point=f97316&area=true&area_color=a78bfa&hide_border=true&custom_title=Meheer's%20Contribution%20Timeline" width="100%" />
+</div>
+
+<br>
+
+---
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meheer17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Meheer17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%" />
 </div>
 
-<!-- ## 🚀 Featured Projects
+<br>
+
+---
+
+## 🗺️ My Learning Roadmaps
 
 <div align="center">
-  <a href="https://github.com/Meheer17/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meheer17&repo=project-1&theme=radical&hide_border=true" alt="Project 1" />
-  </a>
-  <a href="https://github.com/Meheer17/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Meheer17&repo=project-2&theme=radical&hide_border=true" alt="Project 2" />
-  </a>
-</div> -->
-
-## 🧠 What I'm Currently Learning
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,aws,cloudflare" />
-</div>
-
-## 🗺️ Developer Roadmap
 
 [![roadmap.sh](https://roadmap.sh/card/wide/648dd3d9779070ae6248303b?variant=dark&roadmaps=datastructures-and-algorithms%2Capi-design%2Cfull-stack%2Clinux)](https://roadmap.sh)
 
-## 💡 My Favorite Tech Quote
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&duration=4500&pause=1000&color=D93A7C&center=true&vCenter=true&width=500&height=100&lines=First%2C+solve+the+problem.;Then%2C+write+the+code.;-%20John+Johnson" alt="Tech Quote" />
 </div>
 
-## 😄 Developer Humor
+<br>
+
+---
+
+## 🧠 Currently Leveling Up
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" alt="Jokes Card" />
+  <img src="https://skillicons.dev/icons?i=kubernetes,terraform,cloudflare,aws&theme=dark" />
+  <br><br>
+
+| Area | Status |
+|:--|:--|
+| Kubernetes & Container Orchestration | `In Progress` |
+| Terraform & IaC | `Exploring` |
+| Cloudflare Workers & Edge | `Experimenting` |
+| LLM Pipelines & RAG Systems | `Building` |
+| Algorithmic Trading (LSTM + Rules) | `Actively Developing` |
+| System Design & Architecture | `Deep Dive` |
+
 </div>
 
-## 📊 GitHub Language Stats
+<br>
+
+---
+
+## 💬 Dev Philosophy
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meheer17&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
+> *"First, solve the problem. Then, write the code."*
+> — **John Johnson**
+
+> *"Code is like humor. When you have to explain it, it's bad."*
+> — **Cory House**
+
+> *"Make it work, make it right, make it fast."*
+> — **Kent Beck**
+
 </div>
 
-## 🌐 Connect & Support
+<br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&height=40&lines=ship+fast+%E2%9A%A1+iterate+faster+%F0%9F%94%84+learn+always+%F0%9F%A7%A0" />
+</div>
+
+<br>
+
+---
+
+## 😄 A Joke to End Your Day
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&qColor=%23a78bfa&aColor=%23f97316&borderColor=%237c3aed" alt="Dev Joke" />
+</div>
+
+<br>
+
+---
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+  <p>I'm always open to interesting projects, technical discussions, or just vibing about tech.</p>
+  <p>Slide into my DMs — worst case, we both learn something cool.</p>
+  <br>
+
+  <a href="https://linkedin.com/in/meheer-j">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:meherr17.j@gmail.com">
+    <img src="https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br><br>
+
   <a href="https://www.buymeacoffee.com/meheer17">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
+
+  <br><br>
+
+  <img src="https://komarev.com/ghpvc/?username=Meheer17&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Meheer17&style=for-the-badge&color=red" alt="Visitor Count" />
-<!--   <img src="https://profile-counter.glitch.me/Meheer17/count.svg" alt="Visitor Count" /> -->
-</div>
+<br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a78bfa,100:0f0c29&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
