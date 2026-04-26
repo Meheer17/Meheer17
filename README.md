@@ -210,16 +210,6 @@ const meheer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Meheer17&theme=tokyonight&no-frame=true&no-bg=false&margin-w=6&column=7" width="100%" />
-</div>
-
-<br>
-
----
-
 ## 🗺️ My Learning Roadmaps
 
 <div align="center">
